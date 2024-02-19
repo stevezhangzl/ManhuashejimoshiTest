@@ -1,0 +1,8 @@
+# ninja log v5
+4	1105	1703287957153169814	CMakeFiles/donghuashejiwoshi.dir/main.cpp.o	962cc3190b00208e
+6	1126	1703287957174133323	CMakeFiles/donghuashejiwoshi.dir/DBConfig.cpp.o	824f897533b7d19f
+500	579	1703288015120277259	donghuashejiwoshi	131b12bdb6739bbe
+6	800	1703287956845914017	CMakeFiles/donghuashejiwoshi.dir/gongchang/Message.cpp.o	5509a59ffa2692b1
+6	190	1703287956238017995	CMakeFiles/donghuashejiwoshi.dir/BitmapPlus.cpp.o	141512e3470bec5f
+4	500	1703288015038284133	CMakeFiles/donghuashejiwoshi.dir/gongchang/XaojiuziMessage.cpp.o	71b32e068bc2fd4d
+1	10	0	clean	3c8e6cc385ee00ba
